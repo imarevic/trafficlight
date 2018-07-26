@@ -1,3 +1,3 @@
 # Traffic Light App
 
-A traffic light app built with PyGame
+A traffic light app built with PyGame.
